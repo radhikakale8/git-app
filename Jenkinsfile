@@ -30,7 +30,7 @@ pipeline {
 						 steps {
 						        echo 'hello velocity'
 								
-								mkdir 'test1'
+						        sh  'yum install tree -y'
 						 }
 		
 
