@@ -28,9 +28,9 @@ pipeline {
 				
 				        
 						 steps {
-						        echo 'hello velocity'
+						        echo 'hello dev'
 								
-								mkdir test
+								sh 'mkdir test-1'
 						 }
 		
 
