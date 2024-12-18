@@ -30,7 +30,7 @@ pipeline {
 						 steps {
 						        echo 'hello velocity'
 								
-								mkdir 'test-1'
+								mkdir 'test1'
 						 }
 		
 
