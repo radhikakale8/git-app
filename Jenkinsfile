@@ -31,6 +31,8 @@ pipeline {
 						        echo 'hello velocity'
 								
 								sleep 5
+
+							sh 'rm -rf *'
 						 }
 		
 
