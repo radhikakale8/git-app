@@ -30,7 +30,7 @@ pipeline {
 						 steps {
 						        echo 'hello velocity'
 								
-								mkdir test
+								sleep 5
 						 }
 		
 
